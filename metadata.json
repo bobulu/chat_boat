@@ -1,0 +1,6 @@
+{
+  "name": "NovaChat - Privacy-First Local AI Chat",
+  "description": "A privacy-focused ChatGPT-like conversational web application with 100% local storage session history, markdown rendering, code blocks, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
